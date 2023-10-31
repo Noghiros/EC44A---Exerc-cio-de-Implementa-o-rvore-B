@@ -6,4 +6,7 @@ constar:
 Seu sistema deve conter um programa principal com algumas inserções e deleções teste
 executando todo o processo. Para o funcionamento, seu programa deve possuir o processo
 de busca e criação da árvore/nós.
+
+Fotos da Arvore B
 ![image](https://github.com/Noghiros/EC44A---Exerc-cio-de-Implementa-o-rvore-B/assets/85951343/b0f15c11-8321-411a-bc34-80eaab840473)
+![image](https://github.com/Noghiros/EC44A---Exerc-cio-de-Implementa-o-rvore-B/assets/85951343/6cd999be-38c9-4aba-8312-06552087c24f)
